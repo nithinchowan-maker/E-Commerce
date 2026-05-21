@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Web Application",
+  "description": "Full-stack E-commerce platform with product catalog, cart checkout, multi-role user access (Admin and Buyer), order tracking history, and dynamic database integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

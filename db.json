@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Quantum Noise-Canceling Headphones",
+      "description": "Experience absolute acoustic silence, premium dynamic audio drivers, and an ultra-soft memo-foam design for extended listening comfort. Features 40-hour wireless battery life and rapid charging.",
+      "price": 19999,
+      "category": "Electronics",
+      "stock": 15,
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=60",
+      "rating": 4.8
+    },
+    {
+      "id": "p2",
+      "name": "Ultra-Wide curved Monitor (34\")",
+      "description": "Immersive panoramic 1500R curved display sporting a rich QHD resolution, brilliant HDR colors, and 144Hz high refresh rate for high-productivity multi-tasking or intense gaming sessions.",
+      "price": 39999,
+      "category": "Electronics",
+      "stock": 8,
+      "imageUrl": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&auto=format&fit=crop&q=60",
+      "rating": 4.7
+    },
+    {
+      "id": "p3",
+      "name": "Minimalist Leather Backpack",
+      "description": "Meticulously crafted from full-grain vegetable-tanned leather. Features a dedicated protective 16-inch laptop pocket, hidden luggage strap, and ergonomic shoulder padding.",
+      "price": 4999,
+      "category": "Accessories",
+      "stock": 24,
+      "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=60",
+      "rating": 4.5
+    },
+    {
+      "id": "p4",
+      "name": "Smart Wellness Fitness Band",
+      "description": "Real-time analytics for your body. High-accuracy 24/7 heart rate monitoring, sleep tracking analytics, SpO2 blood oxygen measurements, and guided breathing exercises with 50m water resistance.",
+      "price": 3499,
+      "category": "Electronics",
+      "stock": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=800&auto=format&fit=crop&q=60",
+      "rating": 4.3
+    },
+    {
+      "id": "p5",
+      "name": "Raw Denim Trucker Jacket",
+      "description": "Classic American worker style built with 100% heavy organic selvedge cotton denim. Highly durable double-needle stitching, copper reinforcement buttons, and a tapered chest silhouette tailored to last a lifetime.",
+      "price": 5999,
+      "category": "Apparel",
+      "stock": 12,
+      "imageUrl": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=800&auto=format&fit=crop&q=60",
+      "rating": 4.6
+    },
+    {
+      "id": "p6",
+      "name": "Handcrafted Ceramic Vase Set",
+      "description": "Elegantly finished hand-thrown ceramic containers styled with a natural rough slip feel and soft organic glaze detail. Perfect as standalone home sculptures or displaying fresh seasonal botanicals.",
+      "price": 1899,
+      "category": "Home Decor",
+      "stock": 18,
+      "imageUrl": "https://images.unsplash.com/photo-1612196808214-b8e1d6145a8c?w=800&auto=format&fit=crop&q=60",
+      "rating": 4.4
+    },
+    {
+      "id": "p7",
+      "name": "Ergonomic Bamboo Standing Desk",
+      "description": "Height-adjustable electric workspace framing highly renewable premium bamboo solid desks with dual intelligent motors, four personalized preset memory configurations, and built-in fatigue sensors.",
+      "price": 29999,
+      "category": "Home Decor",
+      "stock": 5,
+      "imageUrl": "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=800&auto=format&fit=crop&q=60",
+      "rating": 4.9
+    },
+    {
+      "id": "p8",
+      "name": "Stainless Steel Insulated Bottle",
+      "description": "Triple-walled vacuum insulation engineered to hold warm beverages for 12 hours and iced drinks for 24 hours. Food-grade rust-resistant stainless steel with a sleek premium slip-resistant powder shell.",
+      "price": 1299,
+      "category": "Accessories",
+      "stock": 50,
+      "imageUrl": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800&auto=format&fit=crop&q=60",
+      "rating": 4.2
+    },
+    {
+      "id": "p9",
+      "name": "Suede Chelsea Casual Boots",
+      "description": "Supple water-resistant Italian split calf suede with elastic entry side panels, structured leather welt construction, luxury cushioned footbeds, and solid durable crepe compound grip outsoles.",
+      "price": 7999,
+      "category": "Apparel",
+      "stock": 10,
+      "imageUrl": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=800&auto=format&fit=crop&q=60",
+      "rating": 4.6
+    },
+    {
+      "id": "p10",
+      "name": "Smart Ambient RGB Floor Lamp",
+      "description": "Cast beautiful fluid colors throughout your environment. Generates 16 million colors plus customized ambient presets. Connects instantly with local Alexa, Google Home, and smartphone control apps.",
+      "price": 2499,
+      "category": "Home Decor",
+      "stock": 22,
+      "imageUrl": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=60",
+      "rating": 4.5
+    }
+  ],
+  "users": [
+    {
+      "id": "u_admin",
+      "name": "Admin Manager",
+      "email": "admin@ecostore.com",
+      "password": "adminpassword",
+      "role": "admin"
+    },
+    {
+      "id": "u_buyer",
+      "name": "Alex Buyer",
+      "email": "buyer@ecostore.com",
+      "password": "buyerpassword",
+      "role": "user"
+    }
+  ],
+  "orders": []
+}
